@@ -1,5 +1,5 @@
 # xcursor-breeze-neutral
-Neutral fork of KDE's Breeze Cursor 
+Neutral fork of KDE's Breeze Cursor (from https://github.com/KDE/breeze/)
 
 Just a simple edit to get rid of the orange and blue highlights
 
