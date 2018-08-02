@@ -1,8 +1,14 @@
 # xcursor-breeze-neutral
-Neutral fork of KDE's Breeze Cursor
+Neutral fork of KDE's Breeze Cursor 
+
+Just a simple edit to get rid of the orange and blue highlights
 
 ## Installation:
 ```
 git clone https://github.com/TheScrawl/xcursor-breeze-neutral.git
 
 sudo cp -r xcursor-breeze-neutral-master /usr/share/icons/
+```
+<p align="center">  
+  <img src="https://i.imgur.com/jVoZPbr.jpg"/>  
+</p>  
