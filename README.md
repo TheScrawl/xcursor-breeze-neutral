@@ -9,8 +9,8 @@ On Arch or Arch-based distros you can install ```xcursor-breeze-neutral-git``` f
 ```
 git clone https://github.com/TheScrawl/xcursor-breeze-neutral.git
 
-sudo cp -r xcursor-breeze-neutral-master /usr/share/icons/
-```
+sudo cp -r xcursor-breeze-neutral usr/share/icons/
+
 <p align="center">  
   <img src="https://i.imgur.com/jVoZPbr.jpg"/>  
 </p>  
