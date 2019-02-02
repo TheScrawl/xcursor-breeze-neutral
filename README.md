@@ -6,6 +6,7 @@ Just a simple edit to get rid of the orange and blue highlights
 ## Installation:
 On Arch or Arch-based distros you can install ```xcursor-breeze-neutral-git``` from the AUR
 
+Otherwise use the following:
 ```
 git clone https://github.com/TheScrawl/xcursor-breeze-neutral.git
 
